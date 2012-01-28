@@ -68,6 +68,6 @@ $feeds[]=array("Utwente","http://borft.student.utwente.nl/%7Emike/oo/bt.rss",1);
 // Define your convert parameter here.
 $convert_db = '/opt/codes/convert.csv';
 $convert_extension = array('mkv', 'rm', 'rmvb', 'wmv', "avi");
-$convert_bin = "/usr/bin/ffmpeg";
+//$convert_bin = "/usr/bin/ffmpeg";
 $convert_dest = '/opt/rts/';
 ?>

@@ -2,7 +2,7 @@
 
 /**
  * @file   convert.php
- * @author alvayang <yangsong01@snda.com>
+ * @author alvayang <netyang@gmail.com>
  * @date   Wed Jan 18 13:46:19 2012
  * 
  * @brief  Convert File to IPad Format, the origin file will be destory, after the convert done.
